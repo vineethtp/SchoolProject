@@ -6,7 +6,7 @@ public class Tdd {
 		// TODO Auto-generated method stub
 
 		System.out.println("Welcone");
-		
+		System.out.println("hai");
 	}
 
 }
