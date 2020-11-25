@@ -7,6 +7,7 @@ public class Tdd {
 
 		System.out.println("Welcone");
 		System.out.println("hai");
+		System.out.println("Good Morning");
 	}
 
 }
